@@ -160,4 +160,5 @@ Details reflect each repository in October 2026; confirm current capabilities in
 - [The three kinds of AI traffic](https://github.com/ai-gateways/ai-gateway#the-three-kinds-of-ai-traffic): how LLM, MCP, and agent gateways fit together
 - [Core AI governance controls](https://github.com/ai-gateways/ai-governance#core-ai-governance-controls): keys, budgets, access control, and audit logs
 - [Privacy and data retention](https://github.com/ai-gateways/llm-observability#privacy-and-data-retention): redacting prompts and responses in logs and traces
+- [Awesome AI Gateways](https://github.com/ai-gateways/awesome-ai-gateways#ai-gateways): a curated list of open-source and commercial AI gateways, the layer where guardrails can run for every application
 - [AI Gateways](https://github.com/ai-gateways): all guides in this organization
